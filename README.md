@@ -110,7 +110,7 @@ In this screenshot, we are signed in as John, an IT Support Administrator for th
 <br />
 
 <p>
-<img width="1202" alt="Screenshot 2023-08-18 at 4 28 26 PM" src="https://github.com/EvanGCowan/ticket-lifecycle/assets/142631599/ba002486-d3fc-4e7d-975f-c368da3a2b87">
+<img width="1202" alt="Screenshot 2023-08-18 at 4 28 37 PM" src="https://github.com/EvanGCowan/ticket-lifecycle/assets/142631599/739f4686-d6f9-47f6-b569-9e0f96fb807a">
 </p>
 <p>
 John opens the only ticket was asigned to him. He is able to see the details of the ticket, messages, and any changes that have been made. 
