@@ -2,12 +2,13 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>osTicket - Ticket Lifecycle: Intake Through Closure</h1>
 This tutorial provides a comprehensive guide to understanding the complete lifecycle of a ticket in osTicket, covering ticket creation, assignment, communication, status updates, resolution, and closure. Geared towards beginners, this tutorial offers a screenshot walkthrough of the entire ticket lifecycle in osTicket. You'll see how to create, assign, communicate, and close tickets effectively, ensuring a smooth support process for both agents and customers.<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
+- osTicket
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
@@ -22,7 +23,8 @@ This tutorial provides a comprehensive guide to understanding the complete lifec
 - Assignment and Communication
 - Working the Issue
 - Resolution
-
+- Closure
+  
 <h2>Lifecycle Stages</h2>
 
 <p><img width="1202" alt="Screenshot 2023-08-18 at 4 03 55 PM" src="https://github.com/EvanGCowan/ticket-lifecycle/assets/142631599/f29502a6-ea9a-4290-9eba-d8ba31d69712"/>
